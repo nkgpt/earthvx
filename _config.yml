@@ -21,9 +21,9 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "http://earthvx.com"
 author:
   name: Nik Gupta
-  twitter: @nkgpt
+  twitter: nkgpt
   picture: 
-twitter_username: @nkgpt
+twitter_username: nkgpt
 github_username: nkgpt
 logo: "/assets/images/logo.svg"
 search: # true, false (default)
