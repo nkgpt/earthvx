@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
-email:
-description:
+title: Earth vX
+email: nkgpt@live.com
+description: A progressive ethics magazine about the future of humanity on Earth. 
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://www.earthvx.com
 author:
-  name:
-  twitter:
-  picture:
-twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+  name: Nik Gupta
+  twitter: @nkgpt
+  picture: 
+twitter_username: @nkgpt
+github_username: nkgpt
+logo: "/assets/images/logo.svg"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
