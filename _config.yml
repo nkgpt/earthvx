@@ -18,7 +18,7 @@ title: Earth vX
 email: nkgpt@live.com
 description: A progressive ethics magazine about the future of humanity on Earth. 
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: http://www.earthvx.com
+url: "http://earthvx.com"
 author:
   name: Nik Gupta
   twitter: @nkgpt
